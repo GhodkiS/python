@@ -1,2 +1,2 @@
 # python
-python scripts to perform devops operations!!
+python scripts to perform devops operations!
