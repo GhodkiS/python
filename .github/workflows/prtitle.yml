@@ -13,3 +13,4 @@ jobs:
         with:
           regexp: "(fix|feat).*"
           helpMessage: "Example: 'feat: example of title'"
+
