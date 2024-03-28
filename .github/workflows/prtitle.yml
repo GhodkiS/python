@@ -8,7 +8,7 @@ on:
       dryrun:
         description: 'dry-run?(true/false)'
         required: true
-        default: 'false'
+        default: 'true'
 jobs:
   titlecheck:
     runs-on: ubuntu-latest
