@@ -1,4 +1,4 @@
-name: PR title check
+name: PR title checkk
 on:
   pull_request:
     branches: [ "main" ]
