@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       dry-run:
-        description: 'dry-run'
+        description: 'dry-run?(true/false)'
         required: true
         default: 'false'
 jobs:
