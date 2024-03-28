@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - if: ${{ github.event.inputs.dryrun != true }}
+      - if: ${{ github.event.inputs.dryrun != 'true' }}
         run: |
           echo "Working"
 
